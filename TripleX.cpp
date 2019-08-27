@@ -79,7 +79,7 @@ int main()
         }
         
     }   
-    std::cout << "\n*** You are in the heart of the temple which will reveal its secrets! ***\n";
+    std::cout << "\n\n*** You are in the heart of the temple which will reveal its secrets! ***\n";
 
     return 0;
 }
