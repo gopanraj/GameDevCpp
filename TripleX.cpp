@@ -80,6 +80,10 @@ int main()
         
     }   
     std::cout << "\n\n*** You are in the heart of the temple which will reveal its secrets! ***\n";
+    /*
+    std::cout << "\n\nPress ENTER to exit...";
+    std::cin.ignore();
+    */
 
     return 0;
 }
